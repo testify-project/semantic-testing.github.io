@@ -1,0 +1,43 @@
+---
+
+port: 4081
+host: 0.0.0.0
+safe: false
+
+
+### site serving configuration ###
+exclude: [CNAME, README.md, .gitignore, vendor]
+permalink: /:title ## disables post output
+timezone: PST
+lsi: false
+markdown: kramdown
+
+
+### content configuration ###
+title:       "Semantic Testing"
+keywords:    "Semantic Testing, TDD, Testify"
+description: "A single-page template for Jekyll based blogs (like what you'd use on github pages!)"
+source_link: "https://github.com/testify-project/semantic-testing.github.io"
+favicon:     "img/favicon.ico"
+touch_icon:  "img/apple-touch-icon.png"
+google_analytics_key: UA-49607422-1 ## put YOUR key here to enable tracking! (blank to disable)
+
+
+### template colors, used site-wide via css ###
+colors:
+  black:     '#111111'
+  white:     '#f8f8f8'
+  blue:      '#49a7e9'
+  green:     '#9bcf2f'
+  purple:    '#c869bf'
+  orange:    '#e4844a'
+  turquoise: '#0fbfcf'
+  navy:      '#3c4e5c'
+  darknavy:  '#22313f'
+  lightblue: '#daffed'
+
+kramdown:
+  auto_ids:         true
+  input:            GFM
+  hard_wrap:        false
+
