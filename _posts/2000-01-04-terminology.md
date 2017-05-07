@@ -70,4 +70,3 @@ A strategy is an approach you take to achieve an objective.
 **Tactic**
 
 A tactic is a tool you use to achieve a strategy.
-

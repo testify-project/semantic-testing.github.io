@@ -31,3 +31,4 @@ The goal a safety test is to insure the system does not cause injury to clients 
 * Utilize information security standards
 * Utilize data, application, host, network vulnerability scanning tools
 * Utilize clients to alpha test the system
+
