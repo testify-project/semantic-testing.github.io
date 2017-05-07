@@ -5,7 +5,7 @@ color: white
 fa-icon: language
 ---
 
-#### Terminology
+## Terminology
 Before we proceed, let me introduce some important terms that will use:
 
 **Software Bug**
