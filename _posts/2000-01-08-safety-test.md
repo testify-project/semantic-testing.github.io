@@ -23,12 +23,10 @@ The goal a safety test is to insure the system does not cause injury to clients 
 * Assert access to the system is secure
 * Assert access to system host is secure
 * Assert access to system network environment is secure
-* Assert is safe to use by clients
+* Assert the system is safe to use by clients
 
 **Tactics**
 
-* Utilize security experts
+* Utilize safety and security experts
 * Utilize information security standards
-* Utilize data, application, host, network vulnerability scanning tools
-* Utilize clients to alpha test the system
-
+* Utilize vulnerability scanning tools
