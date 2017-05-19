@@ -2,7 +2,7 @@
 title: "Safety"
 bg: navy
 color: white
-fa-icon: battery-three-quarters
+fa-icon: shield
 ---
 
 ## Safety Test

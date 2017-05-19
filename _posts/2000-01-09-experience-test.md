@@ -2,7 +2,7 @@
 title: "Experience"
 bg: darknavy
 color: white
-fa-icon: battery-full
+fa-icon: users
 ---
 
 ## Experience Test

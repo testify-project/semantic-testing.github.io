@@ -2,7 +2,7 @@
 title: "Integration"
 bg: navy
 color: white
-fa-icon: battery-quarter
+fa-icon: puzzle-piece
 ---
 
 ## Integration Test

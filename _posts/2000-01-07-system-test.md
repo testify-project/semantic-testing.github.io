@@ -2,7 +2,7 @@
 title: "System"
 bg: darknavy
 color: white
-fa-icon: battery-half
+fa-icon: cubes
 ---
 
 ## System Test
