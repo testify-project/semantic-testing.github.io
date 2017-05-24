@@ -9,7 +9,7 @@ fa-icon: cubes
 
 **Goal**
 
-The goal of a system test is to insure a client facing service behaves exactly as you expect in isolation.
+Insure a client facing service behaves exactly as you expect in isolation.
 
 **Objectives**
 
@@ -32,8 +32,8 @@ The goal of a system test is to insure a client facing service behaves exactly a
 **Tactics**
 
 * Utilize a testing framework
-* Utilize a mocking framework to simulate certain collaborators
+* Utilize virtual collaborators to simulate certain behaviors
 * Utilize an assertion library
 * Utilize a virtual or remote resources
-* Utilize a code coverage tool
-* Utilize a mutation testing tool
+* Utilize a code coverage analyzer
+* Utilize a mutation analyzer

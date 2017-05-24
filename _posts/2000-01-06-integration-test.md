@@ -9,7 +9,7 @@ fa-icon: puzzle-piece
 
 **Goal**
 
-The goal of an integration test is to insure a service provided by a module behaves exactly as you expect in isolation.
+Insure a service provided by a module behaves exactly as you expect in isolation.
 
 **Objectives**
 
@@ -31,8 +31,9 @@ The goal of an integration test is to insure a service provided by a module beha
 **Tactics**
 
 * Utilize a testing framework
-* Utilize a mocking framework to simulate certain collaborators
+* Utilize fake or virtual collaborators to simulate certain behaviors
 * Utilize an assertion library
 * Utilize a local or virtual resources
-* Utilize a code coverage tool
-* Utilize a mutation testing tool
+* Utilize a code coverage analyzer
+* Utilize a mutation analyzer
+

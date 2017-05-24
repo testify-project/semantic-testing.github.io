@@ -26,7 +26,19 @@ A test case is a set of test inputs, execution conditions, and expected results 
 
 **Collaborator**
 
-A collaborator is a system required by the system under test to fulfill its duties.
+A collaborator is any system required by the system under test to fulfill its duties.
+
+**Fake Collaborator**
+
+A fake collaborator is a collaborator whose behavior is altered to simulate the behavior of a real collaborator for testing purposes.
+
+**Virtual Collaborator**
+
+A virtual collaborator is a collaborator that behaves like a real collaborator behaves unless its behavior is altered for testing purpose.
+
+**Real Collaborator**
+
+A real collaborator is collaborator that behaves like a real collaborator would behave.
 
 **Resource**
 
@@ -53,7 +65,7 @@ A remote resource is an asset that is:
 
 **Analyzer**
 
-An analyzer is any tool drawn on by a test to examine the system under test or test cases identify potential software bugs.
+An analyzer is any tool drawn on to examine the system under test or test cases to identify potential software bugs.
 
 **Goal**
 
