@@ -34,5 +34,6 @@ Insure a service provided by a module behaves exactly as you expect in isolation
 * Utilize fake or virtual collaborators to simulate certain behaviors
 * Utilize an assertion library
 * Utilize a local or virtual resources
-* Utilize a code coverage tool
-* Utilize a mutation testing tool
+* Utilize a code coverage analyzer
+* Utilize a mutation analyzer
+

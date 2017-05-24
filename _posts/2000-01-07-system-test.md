@@ -35,5 +35,5 @@ Insure a client facing service behaves exactly as you expect in isolation.
 * Utilize virtual collaborators to simulate certain behaviors
 * Utilize an assertion library
 * Utilize a virtual or remote resources
-* Utilize a code coverage tool
-* Utilize a mutation testing tool
+* Utilize a code coverage analyzer
+* Utilize a mutation analyzer

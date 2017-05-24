@@ -65,7 +65,7 @@ A remote resource is an asset that is:
 
 **Analyzer**
 
-An analyzer is any tool drawn on by a test to examine the system under test or test cases identify potential software bugs.
+An analyzer is any tool drawn on to examine the system under test or test cases to identify potential software bugs.
 
 **Goal**
 
