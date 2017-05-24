@@ -31,7 +31,7 @@ Insure a service provided by a module behaves exactly as you expect in isolation
 **Tactics**
 
 * Utilize a testing framework
-* Utilize a mocking framework to simulate certain collaborators
+* Utilize fake or virtual collaborators to simulate certain behaviors
 * Utilize an assertion library
 * Utilize a local or virtual resources
 * Utilize a code coverage tool

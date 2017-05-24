@@ -32,7 +32,7 @@ Insure a client facing service behaves exactly as you expect in isolation.
 **Tactics**
 
 * Utilize a testing framework
-* Utilize a mocking framework to simulate certain collaborators
+* Utilize virtual collaborators to simulate certain behaviors
 * Utilize an assertion library
 * Utilize a virtual or remote resources
 * Utilize a code coverage tool
