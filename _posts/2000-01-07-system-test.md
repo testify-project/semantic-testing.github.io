@@ -9,7 +9,7 @@ fa-icon: cubes
 
 **Goal**
 
-The goal of a system test is to insure a client facing service behaves exactly as you expect in isolation.
+Insure a client facing service behaves exactly as you expect in isolation.
 
 **Objectives**
 

@@ -9,7 +9,7 @@ fa-icon: puzzle-piece
 
 **Goal**
 
-The goal of an integration test is to insure a service provided by a module behaves exactly as you expect in isolation.
+Insure a service provided by a module behaves exactly as you expect in isolation.
 
 **Objectives**
 
