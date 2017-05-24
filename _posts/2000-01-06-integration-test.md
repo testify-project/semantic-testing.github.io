@@ -18,7 +18,7 @@ The goal of an integration test is to insure a service provided by a module beha
 * Retrieves the service from the module
 * Implement one or more test cases that causes the service to fail
 * Implement one or more test cases that causes the service to passes
-* Deliver production code that meets team code coverage guidelines
+* Deliver production code that has at least 80% code coverage
 
 **Strategies**
 

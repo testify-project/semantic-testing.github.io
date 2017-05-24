@@ -29,4 +29,5 @@ The goal a safety test is to insure the system does not cause injury to clients 
 
 * Utilize safety and security experts
 * Utilize information security standards
-* Utilize vulnerability scanning tools
+* Utilize secure coding standards
+* Utilize vulnerability analysis tools
