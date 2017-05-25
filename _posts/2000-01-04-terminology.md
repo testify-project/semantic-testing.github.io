@@ -16,13 +16,9 @@ A software bug is an error, flaw, failure or fault in system that causes it to p
 
 System Under Test (SUT) refers to a system that is being tested for correct operation.
 
-**Test**
-
-A collection of test cases to validate a system under test functionality.
-
 **Test Case**
 
-A test case is a set of test inputs, execution conditions, and expected results used to determine whether a system under test satisfies requirements or works correctly.
+A test case is a set of test inputs, execution conditions, and expected results used to determine whether a system under test satisfies requirements and works correctly.
 
 **Collaborator**
 
@@ -34,11 +30,11 @@ A fake collaborator is a collaborator whose behavior is altered to simulate the 
 
 **Virtual Collaborator**
 
-A virtual collaborator is a collaborator that behaves like a real collaborator behaves unless its behavior is altered for testing purpose.
+A virtual collaborator is a collaborator that behaves like a real collaborator unless its behavior is altered for testing purpose.
 
 **Real Collaborator**
 
-A real collaborator is collaborator that behaves like a real collaborator would behave.
+A real collaborator is collaborator that behaves like a real collaborator.
 
 **Resource**
 
@@ -49,19 +45,18 @@ A resource is any asset drawn on by a the system under test to fulfill its dutie
 A local resource is an asset that is:
 * managed locally
 * simulates a deployment environment resource
-* without external interactions and dependencies
 
 **Virtual Resource**
 
 A virtual resource is a resource that is:
 * managed locally or remotely
-* similar to the deployment environment resource
+* similar to a deployment environment resource
 
 **Remote Resource**
 
 A remote resource is an asset that is:
 * managed remotely
-* identical to the deployment environment resource
+* identical to a deployment environment resource
 
 **Analyzer**
 
