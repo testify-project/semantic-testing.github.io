@@ -1,7 +1,7 @@
 # Semantic Testing Site
 [![Build Status](https://travis-ci.org/testify-project/semantic-testing.github.io.svg?branch=develop)](https://travis-ci.org/testify-project/semantic-testing.github.io)
 [![Join the chat at https://gitter.im/semantic-testing/Lobby](https://badges.gitter.im/semantic-testing/Lobby.svg)](https://gitter.im/semantic-testing/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-[![License](https://img.shields.io/badge/Creative%20Commons-BY--SA-lightgrey.svg)](https://github.com/testify-project/semantic-testing.github.io/blob/master/LICENSE)
+[![License](https://img.shields.io/badge/Creative%20Commons-BY--SA-lightgrey.svg)](https://github.com/testify-project/semantic-testing.github.io/blob/master/LICENSE.md)
 
 ## Local Site Development
 You can set up a local version of your Jekyll GitHub Pages site to test changes to your site locally.
