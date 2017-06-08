@@ -13,6 +13,12 @@ was added, changed, deprecated, removed, fix and security fixes.
 
 ## [Unreleased]
 
+## [0.9.1] - 2017-06-08
+### Changed
+- Changed the order of why and what sections
+- Added red teams to safety tactics section
+- Added usability tests to the experience tactics section
+
 ## [0.9.0] - 2017-05-24
 
 ###Added
