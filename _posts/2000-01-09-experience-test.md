@@ -33,4 +33,5 @@ The goal of an experience test is to insure positive perception and feelings tow
 * Utilize UI/UX experts
 * Utilize survey tools
 * Utilize focus groups
-* Utilize A/B testing
+* Utilize usability tests
+* Utilize A/B tests
