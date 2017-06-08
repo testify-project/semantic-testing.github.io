@@ -13,7 +13,7 @@ was added, changed, deprecated, removed, fix and security fixes.
 
 ## [Unreleased]
 
-## [0.9.1-SNAPSHOT]
+## [0.9.1] - 2017-06-08
 ### Changed
 - Changed the order of why and what sections
 - Added red teams to safety tactics section
