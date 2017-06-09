@@ -9,13 +9,13 @@ fa-icon: cubes
 
 **Goal**
 
-Insure a client facing service behaves exactly as you expect in isolation.
+A client facing service behaves exactly as you expect in isolation.
 
 **Objectives**
 
 * Load and initialize the system
 * Load resources used by the system
-* Retrieves the service from the system
+* Retrieve the service from the system
 * Implement one or more test cases that causes the service to fail
 * Implement one or more test cases that causes the service to passes
 * Deliver production code that has at least 80% code coverage

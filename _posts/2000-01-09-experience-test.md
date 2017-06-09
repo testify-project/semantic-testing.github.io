@@ -9,24 +9,24 @@ fa-icon: users
 
 **Goal**
 
-The goal of an experience test is to insure positive perception and feelings towards the system by clients.
+The client has a positive perception and feelings towards the system.
 
 **Objectives**
 
-* Insure clients perceive the functions of the system as useful
-* Insure clients feel the system is easy and efficient to use
-* Insure clients see the system as visually attractive
-* Insure clients identifies with the system
-* Insure clients is inspired by the system
-* Insure clients sees value in the system
+* The client perceive the functions of the system as useful
+* The client feel the system is easy and efficient to use
+* The client see the system as visually attractive
+* The client identifies with the system
+* The client is inspired by the system
+* The client sees value in the system
 
 **Strategies**
 
-* Assert the existence of a beta-program
-* Assert the existence of client feedback process
-* Assert action is taken on client feedback
-* Assert interaction between internal developers and clients
-* Assert that clients are aware of your corporate mission, vision, and values
+* Assert there is a mechanism for the client to provide feedback
+* Assert client feedback is actionable
+* Assert interaction between the client and your teams
+* Assert the client is aware of new features and functionality
+* Assert that the client is aware of your corporate mission, vision, and values
 
 **Tactics**
 
@@ -35,3 +35,4 @@ The goal of an experience test is to insure positive perception and feelings tow
 * Utilize focus groups
 * Utilize usability tests
 * Utilize A/B tests
+* Utilize a newsletter, blogs, and social media

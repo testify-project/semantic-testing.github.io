@@ -9,13 +9,13 @@ fa-icon: puzzle-piece
 
 **Goal**
 
-Insure a service provided by a module behaves exactly as you expect in isolation.
+A service provided by a module behaves exactly as you expect in isolation.
 
 **Objectives**
 
 * Load and initialize the module
 * Load resources used by the module
-* Retrieves the service from the module
+* Retrieve the service from the module
 * Implement one or more test cases that causes the service to fail
 * Implement one or more test cases that causes the service to passes
 * Deliver production code that has at least 80% code coverage
@@ -26,7 +26,8 @@ Insure a service provided by a module behaves exactly as you expect in isolation
 * Assert the service can be retrieved from the module
 * Assert test cases can be executed independent of other test cases
 * Assert the result produced by the service
-* Assert integration between the service, its collaborators and resources it uses
+* Assert integration between the service and collaborators it depends on
+* Assert integration between the service and resources it depends on
 
 **Tactics**
 

@@ -9,26 +9,28 @@ fa-icon: shield
 
 **Goal**
 
-The goal a safety test is to insure the system does not cause injury to clients and your organization.
+The system does not cause injury to the client.
 
 **Objectives**
 
-* Insure the system does not cause psychological injury
-* Insure the system does not cause physiological injury
-* Insure the system does not cause financial injury
+* The system does not cause psychological injury
+* The system does not cause physiological injury
+* The system does not cause financial injury
 
 **Strategies**
 
 * Assert access to system data is secure
 * Assert access to the system is secure
-* Assert access to system host is secure
+* Assert access to hardware the system is deployed to is secure
 * Assert access to system network environment is secure
-* Assert the system is safe to use by clients
+* Assert access to the physical location of the system is secure
+* Assert the system is safe to use by the client
 
 **Tactics**
 
 * Utilize safety and security experts
 * Utilize internal red teams
+* Utilize access control
 * Utilize information security standards
 * Utilize secure coding standards and practices
 * Utilize vulnerability analyzers
