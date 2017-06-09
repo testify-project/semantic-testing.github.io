@@ -13,6 +13,13 @@ was added, changed, deprecated, removed, fix and security fixes.
 
 ## [Unreleased]
 
+## [0.9.2] - 2017-06-09
+### Changed
+- Added an icon and description to the home section
+- Minor clean up in spelling and grammar
+- Added awareness of features and functionality entry to experience testing strategy section
+- Added newsletter, blog and social media entry to experience testing tactics section
+
 ## [0.9.1] - 2017-06-08
 ### Changed
 - Changed the order of why and what sections

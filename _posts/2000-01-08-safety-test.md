@@ -21,7 +21,7 @@ The system does not cause injury to the client.
 
 * Assert access to system data is secure
 * Assert access to the system is secure
-* Assert access to hardware the system is deployed to is secure
+* Assert access to hardware the system is deployed on is secure
 * Assert access to system network environment is secure
 * Assert access to the physical location of the system is secure
 * Assert the system is safe to use by the client
