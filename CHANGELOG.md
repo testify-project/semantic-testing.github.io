@@ -13,6 +13,10 @@ was added, changed, deprecated, removed, fix and security fixes.
 
 ## [Unreleased]
 
+## [0.9.3] - 2017-06-09
+### Added
+- Added implementations section
+
 ## [0.9.2] - 2017-06-09
 ### Changed
 - Added an icon and description to the home section
