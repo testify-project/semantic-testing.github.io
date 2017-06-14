@@ -13,7 +13,7 @@ was added, changed, deprecated, removed, fix and security fixes.
 
 ## [Unreleased]
 
-## [0.9.4-SNAPSHOT] - 2017-06-14
+## [0.9.4] - 2017-06-14
 ### Added
 - Added human centered design to the experience test tactics section
 
