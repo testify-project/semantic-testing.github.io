@@ -13,6 +13,13 @@ was added, changed, deprecated, removed, fix and security fixes.
 
 ## [Unreleased]
 
+## [0.9.4] - 2017-06-14
+### Added
+- Added human centered design to the experience test tactics section
+
+### Changed
+- Updated and reordered experience test strategies section
+
 ## [0.9.3] - 2017-06-09
 ### Added
 - Added implementations section
