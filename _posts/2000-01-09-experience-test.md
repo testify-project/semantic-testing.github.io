@@ -22,15 +22,17 @@ The client has a positive perception and feelings towards the system.
 
 **Strategies**
 
-* Assert there is a mechanism for the client to provide feedback
-* Assert client feedback is actionable
+* Assert communication between the client and your teams
 * Assert interaction between the client and your teams
-* Assert the client is aware of new features and functionality
-* Assert that the client is aware of your corporate mission, vision, and values
+* Assert that the client is solicited for feedback
+* Assert that client feedback is actionable
+* Assert that the client is informed of new features and functionality
+* Assert that the client is informed of your mission, vision, and values
 
 **Tactics**
 
 * Utilize UI/UX experts
+* Utilize human-centered design
 * Utilize survey tools
 * Utilize focus groups
 * Utilize usability tests

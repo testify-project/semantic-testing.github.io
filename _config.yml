@@ -25,16 +25,30 @@ google_analytics_key: UA-96183432-2
 
 ### template colors, used site-wide via css ###
 colors:
-  black:     '#272a2b'
-  white:     '#f8f8f8'
-  blue:      '#49a7e9'
-  green:     '#3aca74'
-  purple:    '#c869bf'
-  orange:    '#e4844a'
-  turquoise: '#0fbfcf'
-  navy:      '#3c4e5c'
-  darknavy:  '#22313f'
-  lightblue: '#daffed'
+  black:        '#272a2b'
+  white:        '#f8f8f8'
+  blue:         '#49a7e9'
+  green:        '#3aca74'
+  purple:       '#c869bf'
+  orange:       '#e4844a'
+  turquoise:    '#0fbfcf'
+  navy:         '#3c4e5c'
+  darknavy:     '#22313f'
+  
+  #http://colorpalettes.net/color-palette-1847/
+  lightblue:    '#daffed'
+  wallbrown:    '#c1afa8'
+  roofcream:    '#ede8e4'
+  skyblue:      '#81c8ee'
+  domeblue:     '#006bbd'
+  oceanblue:    '#284277'
+  
+  #http://colorpalettes.net/color-palette-2154/
+  ampblue:      '#e1ebec'
+  waveblue:     '#b1d3e3'
+  surfblue:     '#72a5d3'
+  surfaceblue:  '#3b6ba5'
+  seablue:      '#193f6e'
 
 kramdown:
   auto_ids:         true
