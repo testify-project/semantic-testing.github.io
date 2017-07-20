@@ -17,7 +17,7 @@ A client facing service behaves exactly as you expect in isolation.
 * Load resources used by the system
 * Retrieve the service from the system
 * Implement one or more test cases that causes the service to fail
-* Implement one or more test cases that causes the service to passes
+* Implement one or more test cases that causes the service to pass
 * Deliver production code that has at least 80% code coverage
 
 **Strategies**
