@@ -22,41 +22,23 @@ A test case is a set of test inputs, execution conditions, and expected results 
 
 **Collaborator**
 
-A collaborator is any system required by the system under test to fulfill its duties.
-
-**Fake Collaborator**
-
-A fake collaborator is a collaborator whose behavior is altered to simulate the behavior of a real collaborator for testing purposes.
-
-**Virtual Collaborator**
-
-A virtual collaborator is a collaborator that behaves like a real collaborator unless its behavior is altered for testing purpose.
-
-**Real Collaborator**
-
-A real collaborator is collaborator that behaves like a real collaborator.
+A collaborator is any system required by the system under test to fulfill its duties. There are three types of collaborators:
+1. **Fake Collaborator** - A fake collaborator is a collaborator whose behavior is altered to simulate the behavior of a real collaborator for testing purposes.
+1. **Virtual Collaborator** - A virtual collaborator is a collaborator that behaves like a real collaborator unless its behavior is altered for testing purpose.
+1. **Real Collaborator** - A real collaborator is collaborator that behaves like a real collaborator.
 
 **Resource**
 
-A resource is any asset drawn on by a the system under test to fulfill its duties.
-
-**Local Resource**
-
-A local resource is an asset that is:
-* managed locally
-* simulates a deployment environment resource
-
-**Virtual Resource**
-
-A virtual resource is a resource that is:
-* managed locally or remotely
-* similar to a deployment environment resource
-
-**Remote Resource**
-
-A remote resource is an asset that is:
-* managed remotely
-* identical to a deployment environment resource
+A resource is any asset drawn on by a the system under test to fulfill its duties. There are three types of resources:
+1. **Local Resource** - A local resource is an asset that is:
+ * managed locally
+ * simulates a deployment environment resource
+1. **Virtual Resource** - A virtual resource is a resource that is:
+ * managed locally or remotely
+ * similar to a deployment environment resource
+1. **Remote Resource** - A remote resource is an asset that is:
+ * managed remotely
+ * identical to a deployment environment resource
 
 **Analyzer**
 

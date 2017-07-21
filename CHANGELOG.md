@@ -13,6 +13,12 @@ was added, changed, deprecated, removed, fix and security fixes.
 
 ## [Unreleased]
 
+## [0.9.5] - 2017-07-20
+### Changed
+- Fixed typos
+- Updated the why and what sections
+- Cleaned up terminology section
+
 ## [0.9.4] - 2017-06-14
 ### Added
 - Added human centered design to the experience test tactics section
