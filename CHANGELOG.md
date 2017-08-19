@@ -13,6 +13,14 @@ was added, changed, deprecated, removed, fix and security fixes.
 
 ## [Unreleased]
 
+## [0.9.5] - 2017-08-19
+### Added
+- Gulp support
+
+### Changed
+- Updated the what section
+- Navbar Color Scheme
+
 ## [0.9.5] - 2017-07-20
 ### Changed
 - Fixed typos
