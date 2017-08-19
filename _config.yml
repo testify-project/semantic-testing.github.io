@@ -2,11 +2,11 @@
 
 port: 4080
 host: 0.0.0.0
-safe: false
+safe: true
 
 
 ### site serving configuration ###
-exclude: [CNAME, README.md, .gitignore, vendor]
+exclude: [CNAME, README.md, .gitignore, vendor, node_modules, SHOUTOUTS.md, gulpfile.js, package.json, nbproject]
 permalink: /:title ## disables post output
 timezone: PST
 lsi: false

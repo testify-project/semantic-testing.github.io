@@ -8,14 +8,50 @@ You can set up a local version of your Jekyll GitHub Pages site to test changes 
 
 ### Install Prerequisites
 1. [Install Ruby 2.1.0 or higher](https://www.ruby-lang.org/en/documentation/installation/)
+1. [Install NodeJS 4.2.6 or higher](https://nodejs.org/en/download/package-manager/)
 1. Install Bundler
 ```bash
 gem install bundler
 ```
+1. Install Bundles
+```bash
+sudo bundle install
+```
+1. Install Gulp
+```bash
+sudo npm install --global gulp-cli
+```
+1. Install Dependencies
+```bash
+npm install
+```
 
 ### Generate and Run Site Locally
+#### Clean, Build, and Run Site
 ```bash
-bundle exec jekyll serve
+gulp
 ```
-## Managing Discussions
-You can manage comments via [Disqus](https://testify-project.disqus.com)
+#### Clean Site
+```bash
+gulp clean
+```
+#### Build Site
+```bash
+gulp  build
+```
+#### Run Site
+```bash
+gulp run
+```
+
+### Use GUI Admin Tool Site
+1. Enable jekyll-admin gem in the Gemfile
+```ruby
+gem 'jekyll-admin', group: :jekyll_plugins
+```
+1. Run Admin
+```bash
+gulp admin
+```
+1. Go to [http://127.0.0.1:4094/admin](http://127.0.0.1:4094/admin)
+
