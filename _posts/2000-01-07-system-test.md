@@ -7,7 +7,7 @@ fa-icon: cubes
 
 ## System Test
 
-**Goal**
+**Mission**
 
 A client facing service behaves exactly as you expect in isolation.
 

@@ -7,7 +7,7 @@ fa-icon: shield
 
 ## Safety Test
 
-**Goal**
+**Mission**
 
 The system does not cause injury to the client.
 

@@ -7,7 +7,7 @@ fa-icon: users
 
 ## Experience Test
 
-**Goal**
+**Mission**
 
 The client has a positive perception and feelings towards the system.
 
