@@ -7,7 +7,7 @@ fa-icon: puzzle-piece
 
 ## Integration Test
 
-**Goal**
+**Mission**
 
 A service provided by a module behaves exactly as you expect in isolation.
 

@@ -44,13 +44,13 @@ A resource is any asset drawn on by a the system under test to fulfill its dutie
 
 An analyzer is any tool drawn on to examine the system to identify potential software bugs.
 
-**Goal**
+**Mission**
 
-A goal defines a broad primary outcome you want to achieve.
+A mission defines a broad primary outcome you want to achieve.
 
 **Objective**
 
-An objective is a specific and measurable step you take to prove you are effectively achieving a goal.
+An objective is a specific and measurable step you take to prove you are effectively achieving a mission.
 
 **Strategy**
 
