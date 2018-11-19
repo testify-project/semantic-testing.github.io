@@ -15,7 +15,7 @@ was added, changed, deprecated, removed, fix and security fixes.
 
 ## [0.9.7] - 2018-11-19
 ### Changed
-- Updated the mission statement of integration testd to include language about external resources
+- Updated the mission statement of integration tests to include language about external resources
 
 ## [0.9.6] - 2017-08-19
 ### Added
