@@ -9,7 +9,7 @@ fa-icon: puzzle-piece
 
 **Mission**
 
-A service provided by a module that talks to an external resource behaves exactly as you expect in isolation.
+A service that talks to an external resource behaves exactly as you expect in isolation.
 
 **Objectives**
 
