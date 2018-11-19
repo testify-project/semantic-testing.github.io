@@ -13,7 +13,11 @@ was added, changed, deprecated, removed, fix and security fixes.
 
 ## [Unreleased]
 
-## [0.9.5] - 2017-08-19
+## [0.9.7] - 2018-11-19
+### Changed
+- Updated the mission statement of integration tests to include language about external resources
+
+## [0.9.6] - 2017-08-19
 ### Added
 - Gulp support
 
@@ -52,8 +56,7 @@ was added, changed, deprecated, removed, fix and security fixes.
 - Added usability tests to the experience tactics section
 
 ## [0.9.0] - 2017-05-24
-
-###Added
+### Added
  - Initial release which adds the following sections:
   - Home
   - Why
